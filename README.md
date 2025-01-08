@@ -3,3 +3,5 @@
 ![1d9147974895fbda](https://github.com/user-attachments/assets/601c158e-45fd-4cae-9e4a-a27af5239699)
 ![-af7528848c49a05](https://github.com/user-attachments/assets/3fc21594-5b9c-42a3-9ce6-93d0879c79d6)
 5GWiFi模块焊接说明——使用bw16开发板
+开发板与flipper zero 的接线方式
+![接线说明](https://github.com/user-attachments/assets/df492188-4fcd-42d7-925c-7ee785cf21a3)
